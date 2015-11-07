@@ -5,3 +5,5 @@ My **infos**:
 - [x] I love pasta
 - [x] One of my hobby is cooking
 - [x] My favourite color: red
+
+**Città:** Palermo
