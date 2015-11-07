@@ -1,4 +1,4 @@
-My **infos**:
+My info **infos**:
 
 - [x] My name is Andrea Borruso
 - [x] I'm from Palermo, Italy
